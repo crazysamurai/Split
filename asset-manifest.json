@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crazysamurai/Split/static/css/main.073c9b0a.css",
+    "main.js": "/crazysamurai/Split/static/js/main.866c1343.js",
+    "static/js/787.0d4bc85f.chunk.js": "/crazysamurai/Split/static/js/787.0d4bc85f.chunk.js",
+    "index.html": "/crazysamurai/Split/index.html",
+    "main.073c9b0a.css.map": "/crazysamurai/Split/static/css/main.073c9b0a.css.map",
+    "main.866c1343.js.map": "/crazysamurai/Split/static/js/main.866c1343.js.map",
+    "787.0d4bc85f.chunk.js.map": "/crazysamurai/Split/static/js/787.0d4bc85f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.866c1343.js"
+  ]
+}
