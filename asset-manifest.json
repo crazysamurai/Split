@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/crazysamurai/Split/static/css/main.073c9b0a.css",
-    "main.js": "/crazysamurai/Split/static/js/main.866c1343.js",
-    "static/js/787.0d4bc85f.chunk.js": "/crazysamurai/Split/static/js/787.0d4bc85f.chunk.js",
-    "index.html": "/crazysamurai/Split/index.html",
-    "main.073c9b0a.css.map": "/crazysamurai/Split/static/css/main.073c9b0a.css.map",
-    "main.866c1343.js.map": "/crazysamurai/Split/static/js/main.866c1343.js.map",
-    "787.0d4bc85f.chunk.js.map": "/crazysamurai/Split/static/js/787.0d4bc85f.chunk.js.map"
+    "main.css": "/Split/static/css/main.073c9b0a.css",
+    "main.js": "/Split/static/js/main.0755b613.js",
+    "static/js/787.0d4bc85f.chunk.js": "/Split/static/js/787.0d4bc85f.chunk.js",
+    "index.html": "/Split/index.html",
+    "main.073c9b0a.css.map": "/Split/static/css/main.073c9b0a.css.map",
+    "main.0755b613.js.map": "/Split/static/js/main.0755b613.js.map",
+    "787.0d4bc85f.chunk.js.map": "/Split/static/js/787.0d4bc85f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.866c1343.js"
+    "static/js/main.0755b613.js"
   ]
 }
